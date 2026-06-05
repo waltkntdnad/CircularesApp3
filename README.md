@@ -22,7 +22,7 @@ de la visualización.
 ```
 CircularesApp/
 ├── app/
-│   ├── google-services.json        # EJEMPLO: reemplazar por el real de Firebase
+│   ├── google-services.json        #  de Firebase
 │   ├── build.gradle.kts
 │   └── src/main/
 │       ├── AndroidManifest.xml
@@ -48,15 +48,6 @@ CircularesApp/
 └── gradle/ (wrapper incluido)
 ```
 
-## Puesta en marcha rápida
-
-1. Crea un proyecto en Firebase con el paquete `com.circulares.difusion`, habilita **Firestore** y **Storage**, y reemplaza `app/google-services.json` por el real.
-2. Abre la carpeta en Android Studio y deja que sincronice Gradle.
-3. Ejecuta en un dispositivo/emulador con Android 8.0+.
-4. Entra como administrador (`admin` / `admin123`), sube una circular y obsérvala aparecer automáticamente.
-
-La guía detallada está en **[docs/GUIA_COMPILACION_Y_APK.md](docs/GUIA_COMPILACION_Y_APK.md)**.
-Para publicar en GitHub, ver **[docs/GUIA_GITHUB.md](docs/GUIA_GITHUB.md)**.
 
 ## Tecnologías
 
