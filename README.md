@@ -40,9 +40,6 @@ CircularesApp/
 │       │   ├── notifications/          # Canal + FCM opcional
 │       │   └── util/                   # Config, Resultado, FechaUtil
 │       └── res/                        # layouts, drawables, themes, strings
-├── docs/
-│   ├── GUIA_COMPILACION_Y_APK.md       # Configuración, compilación y APK
-│   └── GUIA_GITHUB.md                  # Crear el repositorio en GitHub
 ├── build.gradle.kts
 ├── settings.gradle.kts
 └── gradle/ (wrapper incluido)
