@@ -1,0 +1,17 @@
+<resources>
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="primary_light">#E3F2FD</color>
+    <color name="accent">#FF6D00</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <color name="background">#F5F7FA</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#5F6368</color>
+
+    <color name="estado_activa">#2E7D32</color>
+    <color name="estado_expirada">#C62828</color>
+</resources>

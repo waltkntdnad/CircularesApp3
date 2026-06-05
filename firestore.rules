@@ -1,0 +1,11 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /circulares/{doc} {
+      // Todos pueden leer las circulares (los usuarios no inician sesión)
+      allow read: if true;
+      // La escritura la realiza el administrador desde la app
+      allow write: if true;
+    }
+  }
+}

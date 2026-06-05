@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Circulares</string>
+
+    <!-- Notificaciones -->
+    <string name="notification_channel_id">canal_circulares</string>
+    <string name="notification_channel_name">Difusión de circulares</string>
+    <string name="notification_channel_desc">Avisos periódicos de circulares e instructivos vigentes</string>
+
+    <!-- Pantalla principal -->
+    <string name="titulo_principal">Circulares e instructivos</string>
+    <string name="sin_circulares">No hay circulares vigentes en este momento.</string>
+    <string name="acceso_admin">Administrador</string>
+
+    <!-- Login -->
+    <string name="login_titulo">Acceso de administrador</string>
+    <string name="hint_usuario">Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_ingresar">Ingresar</string>
+
+    <!-- Admin -->
+    <string name="panel_admin">Panel de administración</string>
+    <string name="subir_circular">Subir circular</string>
+    <string name="ver_reportes">Reportes y estadísticas</string>
+    <string name="configuracion">Configuración</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+
+    <!-- Upload -->
+    <string name="hint_titulo">Título de la circular</string>
+    <string name="hint_descripcion">Descripción (opcional)</string>
+    <string name="seleccionar_archivo">Seleccionar archivo (JPG, PNG o PDF)</string>
+    <string name="publicar">Publicar y difundir</string>
+
+    <!-- Reportes -->
+    <string name="reportes_titulo">Reportes</string>
+    <string name="total_circulares">Circulares enviadas</string>
+    <string name="total_vistas">Visualizaciones</string>
+    <string name="circulares_activas">Activas</string>
+    <string name="circulares_expiradas">Expiradas</string>
+
+    <!-- Acciones del administrador -->
+    <string name="previsualizar">Previsualizar</string>
+    <string name="activar">Activar</string>
+    <string name="desactivar">Desactivar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="confirmar_eliminar_titulo">Eliminar circular</string>
+    <string name="confirmar_eliminar_mensaje">¿Seguro que deseas eliminar esta circular de forma permanente? También se borrará su archivo y no podrá recuperarse.</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="circulares_desactivadas">Desactivadas</string>
+    <string name="vista_previa">Vista previa</string>
+    <string name="abrir_archivo">Abrir archivo</string>
+</resources>

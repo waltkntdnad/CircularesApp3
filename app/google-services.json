@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470693713663",
+    "project_id": "circulares-297b4",
+    "storage_bucket": "circulares-297b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470693713663:android:9f03a49175335cba221eca",
+        "android_client_info": {
+          "package_name": "com.circulares.difusion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfNsQjLWxONjX9xEw5OT_b19SZdpjtl-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

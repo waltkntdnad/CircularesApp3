@@ -1,0 +1,29 @@
+# Archivos generados por Gradle
+.gradle/
+build/
+app/build/
+captures/
+
+# Archivos de Android Studio / IntelliJ
+*.iml
+.idea/
+local.properties
+.DS_Store
+
+# Logs
+*.log
+
+# Keystore (NO subir claves de firma)
+*.jks
+*.keystore
+
+# IMPORTANTE: por seguridad, valora si subes o no este archivo.
+# Si tu repositorio es PÚBLICO, considera NO subir google-services.json.
+# Si es PRIVADO, puedes subirlo. Descomenta la siguiente línea para ignorarlo:
+# app/google-services.json
+
+# Node / Cloud Functions
+functions/node_modules/
+functions/.env
+*.local
+.firebase/
